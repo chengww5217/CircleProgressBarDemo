@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgressBar">
+        <!--默认圆的颜色-->
+        <attr name="defaultColor" format="color" />
+        <!--进度条的颜色-->
+        <attr name="reachedColor" format="color" />
+        <!--默认圆的高度-->
+        <attr name="defaultHeight" format="dimension" />
+        <!--进度条的高度-->
+        <attr name="reachedHeight" format="dimension" />
+        <!--圆的半径-->
+        <attr name="radius" format="dimension" />
+    </declare-styleable>
+</resources>

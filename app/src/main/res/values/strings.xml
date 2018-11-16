@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CircleProgressDemo</string>
+    <string name="venom">Venom 2018 HDCAM ENG-1XBET[TGx].avi</string>
+    <string name="waiting">Waiting…</string>
+    <string name="pause">Paused.</string>
+    <string name="finish">Finished.</string>
+    <string name="loading">Downloading %s.</string>
+</resources>
