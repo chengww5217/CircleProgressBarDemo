@@ -2,7 +2,7 @@
 
 演示 apk 下载：
 
-[CircleProgressBarDemo_1.0.apk](./app/release/CircleProgressBarDemo_1.0.apk)
+[CircleProgressBarDemo_1.0.apk](https://blog.chengww.com/files/CircleProgressBarDemo_1.0.apk)
 
 具体状态对应图标：
 
