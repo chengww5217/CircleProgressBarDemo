@@ -153,7 +153,6 @@ public class CircleProgressBar extends ProgressBar {
         if (mStatus == status) return;
         mStatus = status;
         invalidate();
-        requestLayout();
     }
 
     public enum Status {
